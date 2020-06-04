@@ -1,0 +1,61 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+header{
+  width: 100%;
+  height: 1024px;
+  background-image: url("/img/photo.png");
+  background-position: center;
+}
+.logo{
+  margin-top: 40px;
+}
+.logo-text{
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  font-size: 34px;
+}
+.nav{
+  margin-top: 75px;
+  font-family: 'Montserrat', sans-serif;
+}
+.nav a{
+  padding-right: 20px;
+  text-decoration: none;
+  color: white;
+  font-size: 14px;
+}
+.titleone, .titlename, .titledis{
+  color: white;
+  text-align: center;
+}
+.titleone{
+  margin-top: 270px;
+  font-size: 36px;
+  font-family: 'Raleway', sans-serif;
+}
+.titlename{
+  font-size: 45px;
+    font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  padding-top: 5px;
+  padding-bottom: 15px;
+}
+.titledis{
+  font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    padding: 0 20px;
+    line-height: 24px;
+}
+.button-header button{
+  height: 48px;
+  width: 168px;
+  margin-top: 20px;
+  margin-left: 165px;
+  border-radius: 3px;
+  border-color: #998675;
+  color: white;
+  background-color: #998675;
+}
